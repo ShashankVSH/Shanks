@@ -1,3 +1,7 @@
+# Run
+    >Should have Python(3.0) installed.
+    >Should have Beautiful soup(python package) installed.
+    >Start the command prompt/terminal and run any of the below python scripts depending upon your requirements. 
 # Seek.py
        This script is used to scrape texts from websites and download it for later(offline save) use.
  
